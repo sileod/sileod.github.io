@@ -16,9 +16,17 @@ Education and qualifications
 * 2016: MSc (Machine Learning), Sorbonne Université
 * 2015: Ing (Computer Science), Ecole Centrale Paris 
 
-Industry experience
+Experience
 ======
-* 2017-2020: CIFRE PhD researcher, Synapse Développement
+
+* 2022-Now: Tenured Researcher, Inria Lille
+  * LLMs, datasets, logic, reasoning
+    
+* 2020-2020: PostDoctoral Researcher, KU Leuven
+  * Natural language processing, language modeling
+    
+* 2017-2020: CIFRE PhD researcher, Synapse Développement & University of Toulouse
+  * NLP Research (language modeling, evaluation, discourse/semantics)
   * Consulting and technological transfer (NLP models and chatbots)
 
 * 2015: Data Scientist, Short Edition
