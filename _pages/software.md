@@ -5,7 +5,7 @@ permalink: /software/
 author_profile: true
 ---
 
-I develop open tools and datasets for reasoning, evaluation and reusable NLP research.
+I develop open tools, datasets and models for reasoning, evaluation and reusable NLP research.
 
 ## Reasoning Core
 
@@ -14,6 +14,13 @@ I develop open tools and datasets for reasoning, evaluation and reusable NLP res
 - [Paper](https://arxiv.org/abs/2603.02208)
 - [Software](https://github.com/sileod/reasoning-core)
 - [Dataset collection](https://huggingface.co/collections/reasoning-core/datasets)
+
+## NLI and zero-shot encoder models
+
+[ModernBERT-base-nli](https://huggingface.co/tasksource/ModernBERT-base-nli) is an efficient encoder trained across a broad collection of natural language inference, logical reasoning and zero-shot classification tasks. It remains state of the art on several NLI and reasoning benchmarks and supports long-context inputs.
+
+- [Model](https://huggingface.co/tasksource/ModernBERT-base-nli)
+- [Training data and task framework](https://github.com/sileod/tasksource)
 
 ## gramforge
 
@@ -24,7 +31,7 @@ I develop open tools and datasets for reasoning, evaluation and reusable NLP res
 
 ## tasksource
 
-[tasksource](https://github.com/sileod/tasksource) provides hundreds of curated and standardized NLP datasets with reusable preprocessing functions. It supports large-scale evaluation, multi-task learning and instruction-data construction.
+[tasksource](https://github.com/sileod/tasksource) provides hundreds of curated and standardized NLP datasets with reusable preprocessing functions. It supports large-scale evaluation, multi-task learning, instruction-data construction and NLI model training.
 
 - [Paper](https://aclanthology.org/2024.lrec-main.1361/)
 - [Software](https://github.com/sileod/tasksource)
